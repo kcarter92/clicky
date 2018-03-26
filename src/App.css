@@ -1,0 +1,59 @@
+/*.App {
+
+}*/
+
+.App-header {
+  background-color: #222;
+  height: 75px;
+  padding: 20px;
+  color: white;
+}
+
+.Score {
+  font-size: 1.5em;
+  float: right;
+
+}
+
+
+.Jumbotron {
+  padding: 20px;
+  text-align: center;
+  background-image: url(../src/images/portal.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #111625;
+}
+
+.jumbotron {
+  opacity: 0.9;
+  background-color: #E2F7CE;
+}
+
+.Game {
+  padding: 0 170px;
+  width: 1220px;
+  margin: 0 225px;
+}
+
+.Cards {
+    background-size: cover;
+    background-position: 50%;
+    height: 170px;
+    width: 170px;
+    margin: 8px 25px;
+    border: 5px solid #f1f1f1;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+    box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+    cursor: pointer;
+}
+
+.App-title {
+  font-size: 1.5em;
+  float: left;
+}
+
+.App-intro {
+  font-size: large;
+}
